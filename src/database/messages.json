@@ -1,0 +1,16 @@
+[
+    {
+        "message_id": 1,
+        "user_id": 2,
+        "message_body": "salom",
+        "message_file": null,
+        "message_date": 1654605161749
+    },
+    {
+        "message_id": 2,
+        "user_id": 2,
+        "message_body": "file",
+        "message_file": "1654605200693120719.2.1_4x.png",
+        "message_date": 1654605200695
+    }
+]

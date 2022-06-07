@@ -1,0 +1,44 @@
+[
+    {
+        "user_id": 2,
+        "user_name": "Shukurullo",
+        "user_password": "78aa328a55d3f082952143e2d35a2207b2988d4d8ecba88d45901477c864231b",
+        "user_email": "shukurulloh.com@gmail.com",
+        "user_avatar": "/view/1654437583423tree-736885__480.jpg"
+    },
+    {
+        "user_id": 3,
+        "user_name": "John",
+        "user_password": "507b0aca17fc8369af77d0df29e8a671ee467035cb0e5cf1b838f6006779fac7",
+        "user_email": "shkulnk@mail.com",
+        "user_avatar": "/view/1654438290401my_logo.png"
+    },
+    {
+        "user_id": 4,
+        "user_name": "Muhammadrizo",
+        "user_password": "19a3b7762dd64570478684c228e1be52c42a656dbf6bcd8431e366b44b052cc9",
+        "user_email": "muhammadrizo@gamil.com",
+        "user_avatar": "/view/1654453285541Bicycle-PNG-3.png"
+    },
+    {
+        "user_id": 5,
+        "user_name": "Abdulloh",
+        "user_password": "0bfeac40224335fb874cb0e81d6a76836d7dfc7e57fe7e81a31b90e3d9bda5ce",
+        "user_email": "abdulloh@gami.com",
+        "user_avatar": "/view/1654453502724image_2021-12-23_11-59-06.png"
+    },
+    {
+        "user_id": 6,
+        "user_name": "Muhammadziyo",
+        "user_password": "4aa37f86bd5ab4bcb44566d0f1db6f0358ab510e6619cc8887238fa319e244c2",
+        "user_email": "muhammadziyo@gamil.com",
+        "user_avatar": "/view/1654453836506120719.2.1_4x.png"
+    },
+    {
+        "user_id": 7,
+        "user_name": "Bobur",
+        "user_password": "6186e75c2adb60a5dc2f757d492cc0760635c540af0aae06a897ac3461efc4ae",
+        "user_email": "bobur@amil.ru",
+        "user_avatar": "/view/1654502907372pink-1311251.jpg"
+    }
+]
